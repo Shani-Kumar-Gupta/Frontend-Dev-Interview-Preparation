@@ -14,9 +14,17 @@
   10. let, var and const in JavaScript
   11. What is Temporal Dead Zone?
   12. Closures in Js? setTimeout + Closures Interview Questions
-  13. Event Loop and Asyn Programming in JS
+  13. Callback functions and Callback Hell
+  14. Event Loop and Asyn Programming in JS
+  15. Promises, Chaining and Error handling - then and catch
+  16. async and await
+  17. Promise API's or methods - resolve, reject, all, allSettled, race, any, then, catch and finally
+  18. String Important Methods
+  19. Arrays Important Methods
+  20. Object Important Methods
+  21. Type casting and Coercion
 
-### Functions in JavaScript:
+### Functions in JavaScript (Functional Programming):
   1. What is Functions?
   2. Function declaration vs Function Statement vs Function Expression
   3. Anonymous Function
@@ -28,3 +36,22 @@
   9. IIFE - Self Invoking function
   10. Named function expression
   11. function vs function*
+
+### JavaScript ES6 Features:
+  1. let and const keyword 
+  2. map(), filter(), reduce()
+  3. Rest and Spread Operator (...)
+  4. Destructuring Object and Arrays - {a,b}, [a,b] = object
+  5. class and object
+  6. Arrow functions
+  7. Default Parameters
+  8. JavaScript Modules
+
+### Important Concept:
+  1. Debounce vs Throttling
+  2. call(), apply() & bind()
+  3. Function Currying
+  4. Async vs Defer
+  5. Event bubbling & capuring and delegation
+  6. Prototype & Prototype Inheritance
+  7. Deep and Shallow Copy
