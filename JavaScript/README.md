@@ -55,3 +55,4 @@
   5. Event bubbling & capuring and delegation
   6. Prototype & Prototype Inheritance
   7. Deep and Shallow Copy
+  8. Polyfills
