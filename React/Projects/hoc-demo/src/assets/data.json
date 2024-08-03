@@ -1,0 +1,32 @@
+{
+  "studentsInfo": [
+    {
+      "studentName": "Shani Kumar Gupta",
+      "roleNumber": "171500308",
+      "course": "B.Tech.",
+      "branch": "Computer Science",
+      "isTopper": true
+    },
+    {
+      "studentName": "Aman Kumar",
+      "roleNumber": "171500900",
+      "course": "B.Pharma.",
+      "branch": "B.Pharma.",
+      "isTopper": true
+    },
+    {
+      "studentName": "Vivek Kumar",
+      "roleNumber": "171500390",
+      "course": "B.Tech.",
+      "branch": "Electronoics",
+      "isTopper": false
+    },
+    {
+      "studentName": "Abhinav K",
+      "roleNumber": "171500200",
+      "course": "B.Tech.",
+      "branch": "Computer Science",
+      "isTopper": true
+    }
+  ]
+}
