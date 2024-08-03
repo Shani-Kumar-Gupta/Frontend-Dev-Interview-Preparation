@@ -1,0 +1,4 @@
+Question: What is Higher Order Function? Why do we use it? When do we use it and How do we use it?
+
+Answer: Higher Order Component is a function that takes a component and returns a component with some additional properties and methods.
+      - It takes component as an input and it enhances that component and add some extra features. 

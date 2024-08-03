@@ -14,8 +14,10 @@
   10. How can you optimize the performance of a React application? Discuss various techniques like memoization, lazy loading, and code splitting.
   11. How do you manage state in a large-scale React application? Discuss different state management solutions such as Redux, Context API, MobX, and others.
   12. Can you explain the concept of Context API and provide an example of when it might be preferable to use over other state management solutions?
-  13. What are higher-order components (HOCs) and render props? How do they differ from hooks?
+  13. What are higher-order components (HOCs) and render props? How do they differ from hooks? Why do we use it, where do we use it and How do we use it? (Imp)
   14. How does React Router work, and what are some common use cases? Can you explain the difference between BrowserRouter and HashRouter?
+  15. Pure Function or Pure Component
+  16. Controlled and Uncontrolled Component  
 
 ### Real-world Scenarios and Problem-solving
   1. How would you handle error boundaries in a React application? Can you provide an example?
