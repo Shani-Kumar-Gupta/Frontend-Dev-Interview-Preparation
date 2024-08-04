@@ -1,0 +1,4 @@
+Question: Controlled vs Uncontrolled Component?
+Answer: - Important part of React is to manage it's data.
+
+Question: Lifting the state up?

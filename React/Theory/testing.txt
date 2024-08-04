@@ -1,0 +1,5 @@
+// Type of Testing for Developers:
+- Manual Testing
+- Unit Testing
+- Integrated Testing
+- End to End Testing
