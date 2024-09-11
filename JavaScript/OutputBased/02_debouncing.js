@@ -4,12 +4,10 @@ unnecessarily multiple times in quick succession. For example, in a search input
 delay the API call until the user stops typing, thereby reducing the number of API requests.
 */
 
-function debounce(func, delay) {
-  let timeoutId;
-  return function(...args) {
-      clearTimeout(timeoutId);
-      timeoutId = setTimeout(() => {
-          func.apply(this, args);
-      }, delay);
-  };
-}
+function debounce(fn, delay) {
+  let timeout;
+  return function (...args) {
+    clearTimeout(timeout);
+    timeout = setTimeout(() => { fn.apply(this, args) }, delay);
+  }
+};
