@@ -3,3 +3,21 @@
 - Unit Testing
 - Integrated Testing
 - End to End Testing
+
+Important API's-
+  - test()
+  - expect()
+    - toBe()
+    - toBeInTheDocument()
+    - toBeFalsy()
+    - toBeTruthy()
+    - toHaveAttribute()
+  - describe()
+  - it()
+
+React Testing Library:
+  - render(component);
+  - screen
+    - getByText()
+    - getByTitle()
+    - getByRole()

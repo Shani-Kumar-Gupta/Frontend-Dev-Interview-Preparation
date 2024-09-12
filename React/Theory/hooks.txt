@@ -1,0 +1,25 @@
+useState()-
+useEffect()-
+useRef()-
+  - useRef is a React Hook that allow us to create mutable variables, which will not re-render the component.
+  - It also used to access the DOM elements and we can modify the DOM element.
+useMemo()-
+  - The React useMemo() hook is used to memoized the value and retun it. (Which used to avoid the recalculating the same function with the same input).
+  - The useMome() hook only runs when one of it's dependencies gets updated.
+  - Used to improve the performance of React application.
+
+useCallback()-
+  - The React useCallback() hook returns the memoized functions.
+  - The useCallback() hook only runs when one of it's dependencies gets updated.
+  - Improve the performance of React application.
+
+useReducer()-
+  - It's similar to useState() hook but instead of providing state & setter function. It provide state and dispatch fumction.
+  - useReducer() hook accept two arguments-
+    - reducer function
+    - initial state
+
+useLayoutEffect()-
+  - It's similar to useEffect() hook but it's called before the UI getting mounted on DOM.
+  - fillkering issue will be resolved
+
