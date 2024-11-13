@@ -3,6 +3,7 @@ for (var i = 0; i < 3; i++) {
       console.log(i);
   }, 1000);
 }
+/* Output: 3 3 3 */
 
 
 for (var i = 0; i < 3; i++) {
@@ -13,3 +14,4 @@ for (var i = 0; i < 3; i++) {
   }
   cls(i);
 }
+/* Output: 0 1 2 */
